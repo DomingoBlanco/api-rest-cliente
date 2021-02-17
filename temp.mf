@@ -1,0 +1,1 @@
+Mani-class: com.core.springboot.backend.apirest.SpringBookBackendApirestApplication
